@@ -62,7 +62,7 @@ button:hover {
 }
 .curved {
   position: relative;
-  background:  linear-gradient( right, #b4e1ff, rgb(10, 167, 133));
+  background:  linear-gradient(to right, #b4e1ff, rgb(10, 167, 133));
   height: 22vh;
   border-bottom-left-radius: 50% 20%;
   border-bottom-right-radius: 50% 20%;
