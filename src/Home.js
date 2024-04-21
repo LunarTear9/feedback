@@ -10,7 +10,11 @@ const Home = () => {
 
   return (
     <div className="app">
-   <h1 style={{scale: '200%',marginTop: '30vh',}}>UNDER CONSTRUCTION</h1>
+        <div className="MainBodyContainer">
+            <h1 style={{scale: '200%',color: 'white',marginTop: 100}}>WORKS</h1>
+
+        </div>
+   
     </div>
   );
 };
