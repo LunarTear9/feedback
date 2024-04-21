@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+
 import './Home.css'; // Import the CSS file
 
 const Home = () => {
